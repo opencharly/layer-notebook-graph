@@ -1,5 +1,7 @@
+version: 2026.232.0520
 notebook-graph:
     candy:
+        version: 2026.144.1443
         description: |
             Standalone marimo notebook exercising the cuGraph + cuML + PyG + graphistry GPU libraries
             Provisions a self-contained marimo notebook into
